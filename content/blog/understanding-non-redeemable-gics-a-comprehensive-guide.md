@@ -2,6 +2,7 @@
 title: "Understanding Non Redeemable GICs: A Comprehensive Guide"
 author: map-name-daniel-schoester-avatar-images-uploads-daniel-headshot-jpg-role-financial-writer-bio-daniel-is-an-expert-on-travel-finance-and-seo-he-grew-up-in-toronto-receiving-an-honours-bba-finance-from-wilfrid-laurier-universi
 date: 2025-01-23T00:22:00.000Z
+thumbnail: /images/uploads/nonredeemable-gics.png
 description: Non redeemable GICs have garnered attention among investors seeking
   secure and stable investment options. This guide will explore the definition,
   benefits, drawbacks, and essential considerations when selecting
